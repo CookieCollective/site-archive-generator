@@ -1,0 +1,11 @@
+{
+  "name": "site-archive-generator",
+  "version": "1.0.0",
+  "description": "Site archive generator",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "pug": "^2.0.3",
+    "yargs": "^13.2.1"
+  }
+}
